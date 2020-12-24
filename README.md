@@ -1,22 +1,9 @@
-### Hi there 👋
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iGabyTM&count_private=true%show_icons=true&custom_title=iGabyTM%27s%20GitHub%20Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=GabyTM&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iGabyTM&hide=batchfile&langs_count=10&layout=compact" />
 </a>
 
-<!--
-**iGabyTM/iGabyTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=iGabyTM" />
+</a>
