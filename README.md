@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=iGabyTM" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=iGabyTM&column=3" />
 </a>
