@@ -1,0 +1,34 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update iGabyTM/README with new stats"
+          MAX_LINES: 10
+
+          URL_TEXT: "{REPO}{ID}"
+
+          ISSUE_CLOSED: "![issue-closed] **Issue closed:** {URL}"
+          ISSUE_OPENED: "![issue-opened] **Issue opened:** {URL}"
+          PR_CLOSED: "![pull-request-closed] **Pull request closed:** {URL}"
+          PR_MERGED: "![pull-request-merged] **Pull request merged:** {URL}"
+          PR_OPENED: "![pull-request-opened] **Pull request opened:** {URL}"
+          COMMENTS_ACTIVITY: "![comment] **Commented:** {URL}"
+
+          DISABLE_EVENTS: "COMMENTS"
+
+          DATE_STRING: "Last update: `{DATE} GMT`"
+          DATE_FORMAT: "dd/mm/yyyy HH:MM:ss"
