@@ -18,4 +18,17 @@
 
 ## 📜 Activity
 <!--RECENT_ACTIVITY:last_update-->
+Last update: `20/05/2021 15:48:27 GMT`
+<!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
+1. ![issue-opened] **Issue opened:** [CodingAir/TradeSystem#277](https://github.com/CodingAir/TradeSystem/issues/277)
+2. ![issue-opened] **Issue opened:** [PiggyPiglet/DocDex#41](https://github.com/PiggyPiglet/DocDex/issues/41)
+3. ![issue-opened] **Issue opened:** [PiggyPiglet/DocDex#40](https://github.com/PiggyPiglet/DocDex/issues/40)
+4. ![issue-opened] **Issue opened:** [gabyTM/example1#1](https://github.com/gabyTM/example1/issues/1)
+5. ![issue-opened] **Issue opened:** [soresdev/Spark#1](https://github.com/soresdev/Spark/issues/1)
+6. ![issue-opened] **Issue opened:** [GC-spigot/AdvancedEnchantments#1867](https://github.com/GC-spigot/AdvancedEnchantments/issues/1867)
+7. ![pull-request-opened] **Pull request opened:** [DevLeoko/AdvancedBan#484](https://github.com/DevLeoko/AdvancedBan/pull/484)
+8. ![issue-opened] **Issue opened:** [NEZNAMY/TAB#290](https://github.com/NEZNAMY/TAB/issues/290)
+9. ![pull-request-closed] **Pull request closed:** [PlaceholderAPI/Config-Expansion#1](https://github.com/PlaceholderAPI/Config-Expansion/pull/1)
+10. ![pull-request-merged] **Pull request merged:** [PlaceholderAPI/Armor-Expansion#1](https://github.com/PlaceholderAPI/Armor-Expansion/pull/1)
+<!--RECENT_ACTIVITY:end-->
