@@ -1414,7 +1414,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="339.4219401537881" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="339.4219401537881" y="0" width="53.72483406947554" height="8" fill="#F18E33"/>
+                    <rect mask="url(#languages-bar)" x="339.4219401537881" y="0" width="53.72483406947554" height="8" fill="#A97BFF"/>
                     <rect mask="url(#languages-bar)" x="393.14677422326366" y="0" width="31.807457133050796" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="424.95423135631444" y="0" width="19.499550672353827" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="444.4537820286683" y="0" width="14.632196151135124" height="8" fill="#4F5D95"/>
@@ -1427,7 +1427,7 @@
                 Java
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#F18E33" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Kotlin
               </div>
                     <div class="field center no-wrap language">
@@ -1702,7 +1702,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.290366156139015 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.305084810851106 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2130,7 +2130,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 01 Jun 2021 12:07:20 (timezone Europe/Bucharest) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 01 Jun 2021 13:47:09 (timezone Europe/Bucharest) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
