@@ -1702,7 +1702,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.935017965420485 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.94502735976345 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1901,7 +1901,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.2582582582582584 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.4134134134134135 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1925,11 +1925,11 @@
                   Maintainer
                   
                     <span class="gh">
-                      ranked 716k out of 238m repositories
+                      ranked 693k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 22 stars</div>
+                                <div class="text">Maintaining a repository with 23 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2130,7 +2130,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 02 Jul 2021 19:10:56 (timezone Europe/Bucharest) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 02 Jul 2021 20:18:49 (timezone Europe/Bucharest) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
