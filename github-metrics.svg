@@ -2316,7 +2316,7 @@ warning(message)</span>
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 999k out of 82m users
+                      ranked 1000k out of 82m users
                     </span>
                   
                   
@@ -2561,7 +2561,7 @@ warning(message)</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2021, 06:08:48 (timezone Europe/Bucharest) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 17 Dec 2021, 07:07:02 (timezone Europe/Bucharest) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
