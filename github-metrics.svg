@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2293" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2241" class="">
     <defs>
         <style/>
     </defs>
@@ -1432,7 +1432,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1465,7 +1465,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            859 Commits
+            863 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1541,7 +1541,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    2.59m added, 14.2k removed
+                    2.58m added, 11.4k removed
                   
                 </div>
                             </section>
@@ -1686,12 +1686,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.7248770544067" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="346.7248770544067" y="0" width="67.72769504698732" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="414.452572101394" y="0" width="20.927435013102368" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="435.38000711449644" y="0" width="13.700218900206243" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.08022601470265" y="0" width="10.280456900246515" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.36068291494917" y="0" width="0.6393170850508322" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.3987190626128" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="346.3987190626128" y="0" width="68.09669870287367" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="414.49541776548654" y="0" width="20.90774894316918" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.4031667086557" y="0" width="13.68733134531953" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.09049805397524" y="0" width="10.270786255308103" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.36128430928335" y="0" width="0.6387156907166525" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1800,6 +1800,53 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">iGabyTM/arcane-vouchers</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#5d35b02</span>
+                                        <span class="message">add the mighty missing space 🤣</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 3 commits in <span class="repo">iGabyTM/arcane-vouchers</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#f64eebc</span>
+                                        <span class="message">add OptionHolder
+this class holds two values, a set of strings and a set of patterns, this way people could use strings or regex to define certain stuff across the plugin (e.g. the list of whitelisted worlds)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#190dcea</span>
+                                        <span class="message">.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#87a10e4</span>
+                                        <span class="message">modify worldguard compat to return a list of regions ids</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">iGabyTM/c-autosell</span>
                     </div>
                                 </div>
@@ -1841,64 +1888,6 @@
                       Deleted
                       branch  <span class="code">modularization</span> in  <span class="repo">iGabyTM/arcane-vouchers</span>
                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 6 commits in <span class="repo">iGabyTM/arcane-vouchers</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#503777e</span>
-                                        <span class="message">Merge pull request #6 from iGabyTM/modularization
-
-Modularization</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9b413a3</span>
-                                        <span class="message">add WorldGuard compatibility</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#683f252</span>
-                                        <span class="message">remove unused repository declaration and implement worldguard compat on plugin module</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#131683f</span>
-                                        <span class="message">add worldguard compatibility for v6</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#574b72c</span>
-                                        <span class="message">add missing build.gradle files</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3248f52</span>
-                                        <span class="message">move certain parts of the plugin on its own module
-for example, compatibility with WG6 and WG7 would be done in two different modules</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Merged <span class="issue">#6 Modularization</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">iGabyTM/arcane-vouchers</span></div>
-                                    <div>58 files changed <span class="code">++264 --84</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2582,7 +2571,7 @@ for example, compatibility with WG6 and WG7 would be done in two different modul
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2021, 20:07:56 (timezone Europe/Bucharest) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 18 Dec 2021, 21:05:24 (timezone Europe/Bucharest) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
