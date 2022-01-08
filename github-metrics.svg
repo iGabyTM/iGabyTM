@@ -1222,7 +1222,7 @@ forgot to check if the cooldown is enabled before applying it</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2022, 10:09:47 (timezone Europe/Bucharest) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 8 Jan 2022, 11:07:06 (timezone Europe/Bucharest) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
