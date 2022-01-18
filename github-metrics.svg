@@ -1229,7 +1229,7 @@ ch.qos.logback:logback-classic 1.2.6 -&gt; 1.2.10</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2022, 12:08:15 (timezone Europe/Bucharest) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 13:06:16 (timezone Europe/Bucharest) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
