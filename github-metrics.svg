@@ -1262,7 +1262,7 @@ The new system uses SNBT (stringified NBT), just like the `/give` command</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2022, 08:08:04 (timezone Europe/Bucharest) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 22 Jan 2022, 09:06:17 (timezone Europe/Bucharest) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
