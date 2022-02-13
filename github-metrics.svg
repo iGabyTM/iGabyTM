@@ -952,7 +952,7 @@ previously, the tables were named `(personal|global)_limits` and then were renam
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 242k out of 281m repositories</span>
+                                    <span class="gh">ranked 242k out of 282m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 107 stars</div>
                             </div>
@@ -1122,7 +1122,7 @@ previously, the tables were named `(personal|global)_limits` and then were renam
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.86m out of 281m repositories</span>
+                                    <span class="gh">ranked 3.86m out of 282m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1237,7 +1237,7 @@ previously, the tables were named `(personal|global)_limits` and then were renam
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2022, 08:08:23 (timezone Europe/Bucharest) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 13 Feb 2022, 09:06:48 (timezone Europe/Bucharest) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
