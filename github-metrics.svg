@@ -925,7 +925,7 @@ Usage: `&lt;voucher&gt; (amount) (args...)``</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.756756756756758 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.91191191191191 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -948,9 +948,9 @@ Usage: `&lt;voucher&gt; (amount) (args...)``</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 239k out of 283m repositories</span>
+                                    <span class="gh">ranked 237k out of 283m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 109 stars</div>
+                                <div class="text">Maintaining a repository with 110 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1233,7 +1233,7 @@ Usage: `&lt;voucher&gt; (amount) (args...)``</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2022, 21:07:05 (timezone Europe/Bucharest) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 20 Feb 2022, 22:08:33 (timezone Europe/Bucharest) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
