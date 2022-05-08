@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1157 Commits
+                            1158 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,12 +346,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.0058401661242" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="330.0058401661242" y="0" width="88.54537992265159" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="418.5512200887758" y="0" width="19.039273045430736" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.5904931342065" y="0" width="12.46412703037366" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.0546201645802" y="0" width="9.35291046576088" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.40753063034106" y="0" width="0.592469369658963" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.2234228444209" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="330.2234228444209" y="0" width="88.39717371908837" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="418.62059656350925" y="0" width="19.007405336701808" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.6280019002111" y="0" width="12.443264722825653" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="450.0712666230367" y="0" width="9.337255675487146" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.40852229852385" y="0" width="0.591477701476147" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -491,6 +491,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">iGabyTM/c-fperms-gui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0cec10c</div>
+                                        <div class="message">add guis</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">iGabyTM/arcane-vouchers</span>
                                     </div>
                                 </div>
@@ -544,26 +564,6 @@
                                         <span class="repo">darbyjack/VoteParty</span>
                                         to
                                         <span class="repo">iGabyTM/VoteParty</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">iGabyTM/c-bsp-converter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a6aac23</div>
-                                        <div class="message">Add `@SuppressWarnings` for SpellCheckingInspection</div>
                                     </div>
                                 </div>
                             </section>
@@ -1221,7 +1221,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2022, 22:06:52 (timezone Europe/Bucharest) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 May 2022, 23:08:34 (timezone Europe/Bucharest) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
