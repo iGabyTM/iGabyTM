@@ -340,13 +340,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.15148594666897" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="329.15148594666897" y="0" width="90.46465592665271" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="419.6161418733217" y="0" width="17.87179372753598" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.48793560085767" y="0" width="11.699832590725059" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.18776819158273" y="0" width="8.77939437064307" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.9671625622258" y="0" width="1.4766980127466873" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="459.44386057497246" y="0" width="0.5561394250275433" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.169697612263" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="329.169697612263" y="0" width="90.45206493871726" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="419.62176255098024" y="0" width="17.86930630814657" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.4910688591268" y="0" width="11.698204192877437" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.18927305200424" y="0" width="8.778172443167978" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.9674454951722" y="0" width="1.4764924840054083" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.44393797917763" y="0" width="0.5560620208223405" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -500,6 +500,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#0abd2ac</div>
+                                        <div class="message">add support for Mac OS</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">iGabyTM/c-asu-scrape</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#8d99118</div>
                                         <div class="message">change driver path</div>
                                     </div>
@@ -562,26 +582,6 @@
                                     <div class="commit">
                                         <div class="sha">#3dd0594</div>
                                         <div class="message">finish implementation</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">iGabyTM/c-asu-scrape</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2534150</div>
-                                        <div class="message">add logback and delete function</div>
                                     </div>
                                 </div>
                             </section>
@@ -1239,7 +1239,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2022, 15:14:04 (timezone Europe/Bucharest) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 16:21:05 (timezone Europe/Bucharest) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
