@@ -340,13 +340,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.2083538121747" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="329.2083538121747" y="0" width="90.42533922578316" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="419.63369303795787" y="0" width="17.864026495562452" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.4977195335203" y="0" width="11.69474774500845" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.19246727852874" y="0" width="8.775578771957036" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.9680460504858" y="0" width="1.4760562273615874" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="459.4441022778474" y="0" width="0.5558977221526293" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.4794282899912" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="329.4794282899912" y="0" width="90.23792663234578" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="419.71735492233694" y="0" width="17.827002099929185" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.5443570222662" y="0" width="11.670509594250555" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.21486661651676" y="0" width="8.75739079510621" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.97225741162293" y="0" width="1.4729970016180318" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.445254413241" y="0" width="0.554745586759093" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -500,6 +500,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#2ba22a2</div>
+                                        <div class="message">changes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">iGabyTM/c-asu-scrape</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b02db88</div>
+                                        <div class="message">move some things around</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">iGabyTM/c-asu-scrape</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5710e2a</div>
                                         <div class="message">add more arguments to stay hidden</div>
                                     </div>
@@ -538,46 +578,6 @@
                                         <span class="code">rewrite</span>
                                         in
                                         <span class="repo">PlaceholderAPI/Vault-Expansion</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">iGabyTM/c-asu-scrape</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0abd2ac</div>
-                                        <div class="message">add support for Mac OS</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">iGabyTM/c-asu-scrape</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8d99118</div>
-                                        <div class="message">change driver path</div>
                                     </div>
                                 </div>
                             </section>
@@ -748,7 +748,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.34873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.56091718001367 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1235,7 +1235,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 19:10:47 (timezone Europe/Bucharest) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 20:17:30 (timezone Europe/Bucharest) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
