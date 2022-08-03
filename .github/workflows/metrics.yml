@@ -38,6 +38,7 @@ jobs:
           plugin_introduction_title: yes
           plugin_languages: yes
           plugin_languages_colors: github
+          plugin_languages_ignored: CSS, HTML, PHP
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           plugin_lines: yes
