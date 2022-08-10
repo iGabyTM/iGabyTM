@@ -726,13 +726,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 17.207634758460614%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
+                                <div class="bar" style="width: 15.414064331848314%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 6.6250803058877175%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 6.8143158612751265%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                         </div>
                     </section>
@@ -1558,7 +1558,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2022, 09:12:18 (timezone Europe/Bucharest) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 10:08:16 (timezone Europe/Bucharest) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
