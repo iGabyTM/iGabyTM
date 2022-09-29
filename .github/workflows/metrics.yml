@@ -51,3 +51,7 @@ jobs:
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 4
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: GabyTM
